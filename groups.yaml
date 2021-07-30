@@ -1,0 +1,7 @@
+---
+cisco_group:
+  username: "cisco"
+  password: "cisco"
+  platform: "ios"
+  data:
+    ntp_server: "45.63.100.187"
